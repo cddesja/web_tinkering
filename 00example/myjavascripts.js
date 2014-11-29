@@ -1,0 +1,1 @@
+document.getElementById("amazzing").innerHTML = "This paragraph includes introduction information regarding the Martial doomsday"
