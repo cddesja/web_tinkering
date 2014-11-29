@@ -1,3 +1,21 @@
+* {
+	font-family: Futura;
+}
+
 p {
-	color: silver;
+	color: silver;	
+}
+
+/* Title Name */
+#name {
+	text-align: center;
+}
+
+.nobull {
+	list-style-type: none;
+}
+
+a {
+	color: #ed490a;
+
 }
